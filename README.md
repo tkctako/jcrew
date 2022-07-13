@@ -60,7 +60,7 @@
 
 > 支援行動裝置的RWD設計
 <p>
-  <img src="./public/images/jcrew-readme-2.png" />
+  <img src="./public/images/jcrew-readme-6.png" />
 </p>
 
 
